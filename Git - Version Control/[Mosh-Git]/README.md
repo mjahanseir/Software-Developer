@@ -1,13 +1,4 @@
-# [Code with Mosh - The Ultimate Git Course](https://codewithmosh.com/p/the-ultimate-git-course)
-
-[![The Ultimate Git Course](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/tsmP4fdkSmKaiez6t2jl "The Ultimate Git Course")](https://codewithmosh.com/p/the-ultimate-git-course "The Ultimate Git Course")
-
-## Introduction
-
-This repository was made while studying with [Mosh Hamedani](https://programmingwithmosh.com/ "Programming with Mosh"), in [Code with Mosh](https://codewithmosh.com/ "Code with Mosh"). And it contains all my notes from the course. It can be used as an extensive Git cheatsheet.
-
-### Course Curriculum
-
+# [Mosh-Git]
 1. Getting Started
 2. Creating Snapshots
 3. Browsing History
